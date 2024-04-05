@@ -1,0 +1,13 @@
+name = "FOMCMeetings"
+uuid = "c302c45d-8b0f-4237-ac8e-14eb172f6ee2"
+authors = ["Vadim Elenev <elenev@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
