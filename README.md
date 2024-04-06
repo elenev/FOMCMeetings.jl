@@ -38,10 +38,6 @@ calendar_df = view_fomc_calendar(meetings)
 
 This function creates a DataFrame containing year, month, and day columns based on the input DataFrame `v`, and then unstacks the DataFrame to create a wide-format DataFrame with columns for each month of the year. The resulting DataFrame can be used to visualize FOMC meetings in a calendar format. `view_fomc_calendar` also accepts a `DataFrame` with a `:date` column.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request on the GitHub repository.
-
 ## License
 
 This package is licensed under the MIT License.
