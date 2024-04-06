@@ -7,7 +7,7 @@ This Julia package provides functions to retrieve FOMC (Federal Open Market Comm
 You can install this package using the Julia package manager. From the Julia REPL, type `]` to enter the Pkg mode and then run:
 
 ```
-pkg> add https://github.com/elenev/FOMCMeetings
+pkg> add https://github.com/elenev/FOMCMeetings.jl
 ```
 
 ## Usage
